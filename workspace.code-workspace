@@ -7,5 +7,7 @@
 			"path": "tag basics"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tag basics"
+	}
 }
