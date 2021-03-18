@@ -1,0 +1,72 @@
+body {
+	background-color: #535353;
+	}
+	
+	#kont_header {
+	width: 100%;
+	padding: 30px 30px 30px 30px;
+	}
+	
+	h1 {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	}
+	
+	#kont_menu {
+	width: 100%;
+	padding: 30px 30px 30px 30px;
+	}
+	
+	address {
+	text-align: center;
+	color: white;
+	}
+	
+	nav {
+	text-align: center;;
+	font-size: 20px;
+	}
+	
+	h2 {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	}
+	
+	img {
+	width:400px;
+	height: 300px;
+	display:block;
+	margin:auto;
+	}
+	
+	figcaption {
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	}
+	
+	#kont_light {
+	width: 30%;
+	float: left;
+	padding: 5px 5px 5px 5px;
+	}
+	
+	#kont_furniture{
+	width: 30%;
+	float: left;
+	padding: 5px 5px 5px 5px;
+	}
+	
+	#kont_samples {
+	width: 30%;
+	float: left;
+	padding: 5px 5px 5px 5px;
+	}
+	
+	#kont_footer {
+	width: 100%;
+	padding: 30px 30px 30px 30px;
+	clear: left;
+	}
