@@ -1,15 +1,12 @@
 {
   "folders": [
-    {
-      "path": "css basics"
-    },
-    {
-      "path": "tag basics"
-    },
-    {
-      "path": "..\\marynavan.github.io"
-    }
-  ],
+	{
+		"path": "tag-basics"
+	},
+	{
+		"path": "css-basics"
+	}
+],
   "settings": {
     "liveServer.settings.multiRootWorkspaceName": "tag basics"
   }
