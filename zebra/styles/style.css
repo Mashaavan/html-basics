@@ -1,0 +1,42 @@
+body {
+	background-color: rgb(101, 204, 207)
+}
+
+h1 {
+	background-color: rgb(244, 247, 247);
+	text-align: center;
+}
+
+.border {
+	border-style: solid;
+	border-width: medium;
+	border-color: rgb(184, 81, 184);
+
+}
+
+.box {
+	margin: auto;
+	padding: 100px;
+	width: 800px;
+	height: 450px;
+}
+
+.text {
+	color: rgb(163, 9, 9);
+text-align: center;
+font-weight: bolder;
+background-image: url(../images/vertical1.png);
+background-repeat: repeat;
+}
+
+.box1 {
+	margin: 50px 50px;
+	padding: 100px;
+}
+.text1 {
+	color: rgb(163, 9, 9);
+	text-align: center;
+	font-weight: bolder;
+	background-image: url(../images/horizont1.png);
+	background-repeat: repeat;	
+}
